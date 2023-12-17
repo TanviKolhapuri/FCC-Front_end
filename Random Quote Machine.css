@@ -1,0 +1,36 @@
+h1 {
+  color: black;
+  font-family: Monospace;
+  font-size: 25px;
+  padding: 30px 70px 30px 70px;
+}
+
+body {
+  background-color:#6495ED;
+}
+
+#app {
+  width: 600px;
+  margin: 0 auto;
+}
+
+#quote-box {
+  border-color: #CBC3E3;
+  background-color: white;
+  border-style: solid;
+  border-radius: 3%;
+  border-width: 10px;
+  font-family: Monospace;
+  font-size: 16px;
+  padding: 10px;
+}
+
+#text, #author, #new-quote, #tweet-quote {
+  padding: 10px;
+}
+
+#tweet-quote {
+  color: black;
+  font-family: Monospace;
+  padding: 20px;
+}
