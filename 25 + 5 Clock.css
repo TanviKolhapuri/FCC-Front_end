@@ -1,0 +1,30 @@
+h1 {
+  font-family: Monospace;
+  font-size: 25px;
+  padding: 30px 70px 30px 70px;
+}
+
+.container {
+  display: grid;
+  justify-content: center;
+  align-item: center;
+}
+
+.ele1 {
+  margin: 0 auto;
+  max-width: 150px;
+
+}
+
+.ele2 {
+  margin: 0 auto;
+  max-width: 130px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+
+}
+
+.ele {
+  margin: 0 auto;
+  max-width: 130px;
+}
