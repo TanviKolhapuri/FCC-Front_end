@@ -1,0 +1,31 @@
+h1 {
+  font-family: Monospace;
+  font-size: 25px;
+  padding: 35px 70px 30px 70px;
+}
+
+.key {
+  max-width: 30px;
+  background-color: #6495ED;
+}
+
+.equal-key, .clear-key {
+  max-width: 80px;
+  background-color: #6495ED;  
+  
+}
+
+.container {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+#display {
+  border: 1px solid black;
+  height: 30px;
+  width: 100px;
+  text-align: right;
+}
+
+
