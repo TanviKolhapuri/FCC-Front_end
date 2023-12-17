@@ -1,0 +1,11 @@
+h1 {
+  font-family: Monospace;
+  padding: 30px 70px 30px 70px;
+}
+
+.drum-pad {
+   border: 1px solid blue;
+   max-width: 100px;
+   margin: auto;
+   background-color: #F0F8FF;
+}
